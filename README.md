@@ -29,4 +29,6 @@ xNormal.pyc library is a Python wrapper for xNormal: https://github.com/orangedu
 To use Photoshop automation features you need to install comtypes Python library: https://pypi.python.org/pypi/comtypes
 After install it, copy comtypes folder to Documents/Maya/(Version)/scripts folder
 
-# IMPORTANT: Is not necessary to have comtypes intalled to use the tool, if you do not have comptyes library available, you won't be able to use Photoshop featues to auto import baked textures into Photoshop but the rest of the features will be completely available.
+IMPORTANT
+=========================================================
+Is not necessary to have comtypes intalled to use the tool, if you do not have comptyes library available, you won't be able to use Photoshop featues to auto import baked textures into Photoshop but the rest of the features will be completely available.
