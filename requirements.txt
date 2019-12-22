@@ -3,7 +3,7 @@
 # ===================================================================
 coveralls==1.8.2; python_version>='3.6'
 coveralls==1.9.2; python_version<'3.6'
-coveralls
+comtypes
 tpPyUtils
 tpDccLib
 tpQtLib
