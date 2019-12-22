@@ -1,0 +1,3 @@
+[submodule "xNormalBatchBaker/externals/Python-xNormal"]
+	path = xNormalBatchBaker/externals/Python-xNormal
+	url = https://github.com/orangeduck/Python-xNormal.git
