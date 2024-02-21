@@ -1,3 +1,0 @@
-include source/xNormalBatchBaker/resources/images/*.*
-include source/xNormalBatchBaker/resources/icons/color/*.*
-include source/xNormalBatchBaker/externals/Python-xNormal/xNormal.py

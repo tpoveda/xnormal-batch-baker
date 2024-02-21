@@ -1,0 +1,14 @@
+name: 'xnormal-batch-baker'
+version: '0.0.1'
+required: False
+author: 'Tomas Poveda'
+authorEmail: 'tpovedatd@gmail.com'
+description: 'Tool to automatize the backing of normals using xNormal'
+displayName: 'XNormal Batch Baker'
+environment:
+  PYTHONPATH:
+    - '{self}'
+  TPDCC_BASE_PATHS:
+    - '{self}'
+  TPDCC_TOOL_DEFINITION_MODULES:
+    - '{self}/tp/tools/game'
